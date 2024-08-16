@@ -1,4 +1,4 @@
-# shirohat
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiro8t&show_icons=true)
 
 - 👀 I’m interested in learning Gatsby.
 - 🌱 I’m currently learning PHP.
